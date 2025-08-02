@@ -1,0 +1,32 @@
+{
+  "NITM.3__(98-Acad)__CSE_Dept__Khonthok_Lon__2024": {
+    "eventName": "Data Collection - 2024",
+    "eventNameShort": "data_collection",
+    "description": "Data Collection event from NIT Students",
+    "startDate": "2023-12-01",
+    "endDate": "2024-01-01",
+    "venue": "NIT Manipur",
+    "resourceURLs": [],
+    "certificate": {
+      "path": "/events/data_collection",
+      "issuedOn": "2024-01-05"
+    }
+  },
+  "khonthoklonlab__wlst25": {
+    "eventName": "Workshop on Low-Resource Speech Technology - 2025",
+    "eventNameShort": "wlst25",
+    "description": "This workshop focuses on building tools and datasets for underrepresented languages in speech technology.",
+    "startDate": "2025-07-23",
+    "endDate": "2025-07-27",
+    "venue": "Conference Hall, NIT Manipur",
+    "resourceURLs": [
+      {
+        "All Resources": "https://drive.google.com/drive/folders/1_j-YhieW3EKhB-InfVQgPSpBc2G4YkOA"
+      }
+    ],
+    "certificate": {
+      "path": "/events/wlst25",
+      "issuedOn": "2025-07-27"
+    }
+  }
+}
